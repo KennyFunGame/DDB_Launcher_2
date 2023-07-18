@@ -51,14 +51,14 @@
   "RumbleConfig": "https://dmo.gameking.com/digimon/cdn/rumble/qa/RumbleConfig.json",
   "MainUrl": [
     {
-      "TypeName": "DMOM",
-      "HomePageUrl": "http://alpha.digimonmasters.com",
-      "MainPageUrl": "http://alpha.digimonmasters.com/launcher/GameLauncher.aspx",
-      "BanerUrl": "http://alpha.digimonmasters.com/launcher/GameLauncherBanner.aspx",
-      "PatchPageUrl": "http://alpha.digimonmasters.com/news/update.aspx",
-      "GameDownloadUrl": "http://alpha.digimonmasters.com/down/main.aspx",
+      "TypeName": "GSP",
+      "HomePageUrl": "",
+      "MainPageUrl": "",
+      "BanerUrl": "",
+      "PatchPageUrl": "",
+      "GameDownloadUrl": "",
       "ExplorerStartPage": "",
-      "InstallFileName": "MoveInteractive_KDMO_Installer_Alpha(2658).exe"
+      "InstallFileName": ""
     }
   ]
 }
