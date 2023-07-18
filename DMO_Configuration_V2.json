@@ -18,20 +18,20 @@
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
-        "Version": 1,
-        "DownloadFile": "Launcher_1.zip"
+        "Version": 0,
+        "DownloadFile": ""
       }
     ]
   },
   "UMInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
-    "CurrentVersion": 1,
+    "CurrentVersion": 0,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DMLauncher.exe",
     "VersionList": [
       {
-        "Version": 1,
-        "DownloadFile": "UM_1.zip"
+        "Version": 0,
+        "DownloadFile": ""
       }
     ]
   },
