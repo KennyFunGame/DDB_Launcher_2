@@ -47,8 +47,8 @@
       }
     ]
   },
-  "FullClinetURL": "https://movegames-cdn.gameking.com/Movegames/431956/DMO/Dev_Alpha/Kor/Fullclient_Intaller/",
-  "RumbleConfig": "https://dmo.gameking.com/digimon/cdn/rumble/qa/RumbleConfig.json",
+  "FullClinetURL": "",
+  "RumbleConfig": "",
   "MainUrl": [
     {
       "TypeName": "GSP",
