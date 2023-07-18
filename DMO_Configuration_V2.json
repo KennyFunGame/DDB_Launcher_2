@@ -14,7 +14,7 @@
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
     "CurrentVersion": 1,
-    "ExeFileName": "D-Player.exe",
+    "ExeFileName": "DMLauncher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
@@ -27,7 +27,7 @@
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
     "CurrentVersion": 1,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "D-Player.exe",
+    "RunExeFileName": "DMLauncher.exe",
     "VersionList": [
       {
         "Version": 1,
