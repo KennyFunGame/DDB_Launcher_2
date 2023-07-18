@@ -17,10 +17,7 @@
     "ExeFileName": "DMLauncher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
-      {
-        "Version": 1,
-        "DownloadFile": "Launcher_1.zip"
-      }
+      
     ]
   },
   "UMInfo": {
@@ -29,10 +26,7 @@
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DMLauncher.exe",
     "VersionList": [
-      {
-        "Version": 1,
-        "DownloadFile": "UM_1.zip"
-      }
+      
     ]
   },
   "Redist": {
