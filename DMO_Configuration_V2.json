@@ -13,25 +13,29 @@
   },
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
-    "CurrentVersion": 0,
+    "CurrentVersion": 2,
     "ExeFileName": "DMLauncher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
-        "Version": 0,
-        "DownloadFile": ""
+        "Version": 1,
+        "DownloadFile": "Launcher_1.zip"
+      },
+      {
+        "Version": 2,
+        "DownloadFile": "Launcher_2.zip"
       }
     ]
   },
   "UMInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
-    "CurrentVersion": 0,
+    "CurrentVersion": 1,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DMLauncher.exe",
     "VersionList": [
       {
-        "Version": 0,
-        "DownloadFile": ""
+        "Version": 1,
+        "DownloadFile": "UM_1.zip"
       }
     ]
   },
