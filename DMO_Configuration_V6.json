@@ -1,94 +1,38 @@
 {
   "ServerInfo": {
-    "Maintenance": true,
+    "Maintenance": false,
     "Message": {
-      "Title": "서비스 점검 시간 입니다",
+      "Title": "",
       "Msg": "안녕하세요. 디지몬 마스터즈입니다. 더 이상 지원하지 않는 버전의 런처입니다. 홈페이지에서 런처를 재 설치해 주시길 바랍니다."
     },
-    "Title": "서비스 점검 시간 입니다"
+    "Title": ""
   },
   "PatchInfo": {
-    "DownloadUrl": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Korea/UpdatePack/",
-    "MinPatchVersion": 1414,
-    "PatchVersion": 1513
+    "DownloadUrl": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdatePack/",
+    "MinPatchVersion": 0,
+    "PatchVersion": 1
   },
   "LanuncherInfo": {
-    "DownloadPath": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Korea/Launcher/",
-    "CurrentVersion": 257,
+    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
+    "CurrentVersion": 1,
     "ExeFileName": "D-Player.exe",
     "RunExeFileName": "DigimonMasters.exe",
     "VersionList": [
       {
-        "Version": 250,
-        "DownloadFile": "Launcher_250.zip"
-      },
-      {
-        "Version": 251,
-        "DownloadFile": "Launcher_251.zip"
-      },
-      {
-        "Version": 252,
-        "DownloadFile": "Launcher_252.zip"
-      },
-      {
-        "Version": 253,
-        "DownloadFile": "Launcher_253.zip"
-      },
-      {
-        "Version": 254,
-        "DownloadFile": "Launcher_254.zip"
-      },
-      {
-        "Version": 255,
-        "DownloadFile": "Launcher_255.zip"
-      },
-      {
-        "Version": 256,
-        "DownloadFile": "Launcher_256.zip"
-      },
-      {
-        "Version": 257,
-        "DownloadFile": "Launcher_257.zip"
+        "Version": 1,
+        "DownloadFile": "Launcher_1.zip"
       }
     ]
   },
   "UMInfo": {
-    "DownloadPath": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Korea/UpdateManager/",
-    "CurrentVersion": 16,
+    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
+    "CurrentVersion": 1,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "D-Player.exe",
     "VersionList": [
       {
-        "Version": 9,
-        "DownloadFile": "UM_9.zip"
-      },
-      {
-        "Version": 10,
-        "DownloadFile": "UM_10.zip"
-      },
-      {
-        "Version": 11,
-        "DownloadFile": "UM_11.zip"
-      },
-      {
-        "Version": 12,
-        "DownloadFile": "UM_12.zip"
-      },
-      {
-        "Version": 13,
-        "DownloadFile": "UM_13.zip"
-      },
-      {
-        "Version": 14,
-        "DownloadFile": "UM_14.zip"
-      },
-      {
-        "Version": 15,
-        "DownloadFile": "UM_15.zip"
-      },
-      {
-        "Version": 16,
-        "DownloadFile": "UM_16.zip"
+        "Version": 1,
+        "DownloadFile": "UM_1.zip"
       }
     ]
   },
