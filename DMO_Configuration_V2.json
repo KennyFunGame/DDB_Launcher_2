@@ -27,7 +27,7 @@
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
     "CurrentVersion": 1,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "DMLauncher.exe",
+    "RunExeFileName": "",
     "VersionList": [
       {
         "Version": 1,
