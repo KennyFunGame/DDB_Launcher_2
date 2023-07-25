@@ -41,10 +41,10 @@
     "Command": "/install /passive /norestart",
     "Regstry": [
       {
-        "Reg": "SOFTWARE\\Microsoft\\VisualStudio\\14.0\\VC\\Runtimes\\X86"
+        "Reg": "SOFTWARE\\Microsoft\\VisualStudio\\14.0\\VC\\Runtimes\\X64"
       },
       {
-        "Reg": "SOFTWARE\\WOW6432Node\\Microsoft\\VisualStudio\\14.0\\VC\\Runtimes\\X86"
+        "Reg": "SOFTWARE\\WOW6432Node\\Microsoft\\VisualStudio\\14.0\\VC\\Runtimes\\X64"
       }
     ]
   },
