@@ -29,13 +29,17 @@
   },
   "UMInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
-    "CurrentVersion": 8,
+    "CurrentVersion": 9,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DMLauncher.exe",
     "VersionList": [
       {
         "Version": 8,
         "DownloadFile": "UM_8.zip"
+      },
+      {
+        "Version": 9,
+        "DownloadFile": "UM_9.zip"
       }
     ]
   },
