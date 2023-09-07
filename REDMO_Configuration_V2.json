@@ -13,13 +13,13 @@
   },
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
-    "CurrentVersion": 1,
+    "CurrentVersion": 319,
     "ExeFileName": "DMLauncher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
-        "Version": 1,
-        "DownloadFile": "Launcher_1.zip"
+        "Version": 319,
+        "DownloadFile": "Launcher_319.zip"
       }
     ]
   },
