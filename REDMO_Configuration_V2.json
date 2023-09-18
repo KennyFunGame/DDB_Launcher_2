@@ -12,7 +12,7 @@
     "PatchVersion": 1
   },
   "LanuncherInfo": {
-    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
+    "DownloadPath": "https://download1584.mediafire.com/b6itziiaqlaghXMPS7wuyNad7NHNyPDc3cSEQu4D1dno-oHk0T2eYBXAGc4DbdgKP1W4MdVr6h4RFKQuqp3Nr3Og7Vmi6MVa9_hXJWLRJLT02QcremN-4PYtqatloi_FvU8hE1hi-RvULkFgr_68Cs4YkF5z4mVMF9QjEjjyWco/yapcouy2xj0l4ac/",
     "CurrentVersion": 320,
     "ExeFileName": "DMLauncher.exe",
     "RunExeFileName": "GDMO.exe",
@@ -23,7 +23,7 @@
       },
       {
         "Version": 320,
-        "DownloadFile": "Launcher_320.zip"
+        "DownloadFile": "Client487_kor_2.zip"
       }
     ]
   },
