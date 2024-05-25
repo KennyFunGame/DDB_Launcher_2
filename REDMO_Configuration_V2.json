@@ -15,7 +15,7 @@
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
     "CurrentVersion": 320,
     "ExeFileName": "DMLauncher.exe",
-    "RunExeFileName": "DMOLauncher.exe",
+    "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
         "Version": 319,
