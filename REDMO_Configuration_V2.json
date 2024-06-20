@@ -3,13 +3,13 @@
     "Maintenance": false,
     "Message": {
       "Title": "REDMO Development.",
-      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/6KMwB6UUsD> for more information"
+      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/8xa3Gt8YhF> for more information"
     }
   },
   "PatchInfo": {
     "DownloadUrl": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Patch/",
     "MinPatchVersion": 0,
-    "PatchVersion": 10
+    "PatchVersion": 11
   },
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
