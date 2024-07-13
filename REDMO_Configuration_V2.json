@@ -1,6 +1,6 @@
 {
   "ServerInfo": {
-    "Maintenance": false,
+    "Maintenance": true,
     "Message": {
       "Title": "REDMO Development.",
       "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/8xa3Gt8YhF> for more information"
