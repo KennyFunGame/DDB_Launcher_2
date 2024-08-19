@@ -1,6 +1,6 @@
 {
   "ServerInfo": {
-    "Maintenance": true,
+    "Maintenance": false,
     "Message": {
       "Title": "서비스 점검 시간 입니다",
       "Msg": "안녕하세요. 디지몬 마스터즈입니다. 더 이상 지원하지 않는 버전의 런처입니다. 홈페이지에서 런처를 재 설치해 주시길 바랍니다."
@@ -8,15 +8,15 @@
     "Title": "서비스 점검 시간 입니다"
   },
   "PatchInfo": {
-    "DownloadUrl": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Korea/UpdatePack/",
+    "DownloadUrl": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Patch/",
     "MinPatchVersion": 1414,
     "PatchVersion": 1513
   },
   "LanuncherInfo": {
-    "DownloadPath": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Korea/Launcher/",
+    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
     "CurrentVersion": 260,
     "ExeFileName": "D-Player.exe",
-    "RunExeFileName": "DigimonMasters.exe",
+    "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
         "Version": 255,
@@ -45,7 +45,7 @@
     ]
   },
   "UMInfo": {
-    "DownloadPath": "http://movegames-cdn.gameking.com/Movegames/431956/DMO/Korea/UpdateManager/",
+    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
     "CurrentVersion": 18,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "D-Player.exe",
