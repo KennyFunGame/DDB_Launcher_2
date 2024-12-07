@@ -7,9 +7,9 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "http://26.164.102.213:8080/Patch/",
+    "DownloadUrl": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Patch/",
     "MinPatchVersion": 1,
-    "PatchVersion": 27
+    "PatchVersion": 28
   },
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
