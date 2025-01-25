@@ -7,12 +7,12 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "https://digital-shinka.github.io/Site/UpdatePatch/",
+    "DownloadUrl": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Patch/",
     "MinPatchVersion": 1,
     "PatchVersion":80
   },
   "LanuncherInfo": {
-    "DownloadPath": "https://digital-shinka.github.io/Site/Launcher/",
+    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
     "CurrentVersion": 322,
     "ExeFileName": "DSOLauncher.exe",
     "RunExeFileName": "GDMO.exe",
@@ -84,7 +84,7 @@
     ]
   },
   "UMInfo": {
-    "DownloadPath": "https://digital-shinka.github.io/Site/UpdateManager/",
+    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
     "CurrentVersion": 10,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DSOLauncher.exe",
