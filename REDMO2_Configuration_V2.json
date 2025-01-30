@@ -2,19 +2,19 @@
   "ServerInfo": {
     "Maintenance": false,
     "Message": {
-      "Title": "Digital Shinka Online In Development.",
+      "Title": "REDMO Development.",
       "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/vtNnzfSF for more information."
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Patch/",
-    "MinPatchVersion": 1,
-    "PatchVersion":80
+    "DownloadUrl": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Patch_2/",
+    "MinPatchVersion": 36,
+    "PatchVersion":36
   },
   "LanuncherInfo": {
-    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher/",
+    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher_2/",
     "CurrentVersion": 322,
-    "ExeFileName": "DSOLauncher.exe",
+    "ExeFileName": "Launcher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
@@ -84,10 +84,10 @@
     ]
   },
   "UMInfo": {
-    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager/",
+    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager_2/",
     "CurrentVersion": 10,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "DSOLauncher.exe",
+    "RunExeFileName": "Launcher.exe",
     "VersionList": [
       {
         "Version": 8,
@@ -123,10 +123,10 @@
       "TypeName": "GSP",
       "HomePageUrl": "https://discord.gg/vtNnzfSF",
       "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
-      "MainPageUrl": "https://digital-shinka.github.io/Site/main.html",
-      "BanerUrl": "https://digital-shinka.github.io/Site/banner.html",
-      "ClientIP": "game.digitalshinkaonline.com",
-	    "ClientPort": "7605",
+      "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
+      "ClientIP": "127.0.0.1",
+	    "ClientPort": "7029",
       "Unlock":false
 	  
     }
