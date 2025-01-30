@@ -3,7 +3,7 @@
     "Maintenance": false,
     "Message": {
       "Title": "REDMO Development.",
-      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/vtNnzfSF for more information."
+      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/jrtJWXG2 for more information."
     }
   },
   "PatchInfo": {
@@ -121,8 +121,8 @@
   "MainUrl": [
     {
       "TypeName": "GSP",
-      "HomePageUrl": "https://discord.gg/vtNnzfSF",
-      "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
+      "HomePageUrl": "https://discord.gg/jrtJWXG2",
+      "GameDownloadUrl": "https://discord.gg/jrtJWXG2",
       "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx",
       "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
       "ClientIP": "127.0.0.1",
