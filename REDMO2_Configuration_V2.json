@@ -14,7 +14,7 @@
   "LanuncherInfo": {
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher_2/",
     "CurrentVersion": 322,
-    "ExeFileName": "Launcher.exe",
+    "ExeFileName": "REDMOLauncher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
@@ -87,7 +87,7 @@
     "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager_2/",
     "CurrentVersion": 10,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "Launcher.exe",
+    "RunExeFileName": "REDMOLauncher.exe",
     "VersionList": [
       {
         "Version": 8,
