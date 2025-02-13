@@ -125,7 +125,7 @@
       "GameDownloadUrl": "https://discord.gg/jrtJWXG2",
       "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx",
       "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
-      "ClientIP": "127.0.0.1",
+      "ClientIP": "185.255.4.248",
 	    "ClientPort": "7029",
       "Unlock":false
 	  
