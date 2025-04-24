@@ -1,0 +1,5 @@
+{
+  "version": "1.2.0",
+  "url": "https://example.com/update.zip",
+  "changelog": "🔧 1.2.0 Sürüm Notları:\n- Performans iyileştirmeleri\n- Hata düzeltmeleri\n- Yeni arayüz tasarımı\n- Güncelleme sonrası otomatik başlatma eklendi"
+}
