@@ -7,12 +7,12 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Patch_2/",
+    "DownloadUrl": "https://raw.githubusercontent.com/KennyFunGame/DDB_Launcher_2/main/Patch_2/",
     "MinPatchVersion": 36,
     "PatchVersion":65
   },
   "LanuncherInfo": {
-    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/Launcher_2/",
+    "DownloadPath": "https://raw.githubusercontent.com/KennyFunGame/DDB_Launcher_2/main/Launcher_2/",
     "CurrentVersion": 323,
     "ExeFileName": "REDMOLauncher.exe",
     "RunExeFileName": "GDMO.exe",
@@ -89,7 +89,7 @@
     ]
   },
   "UMInfo": {
-    "DownloadPath": "https://raw.githubusercontent.com/emre098t/DDB_Launcher_2/main/UpdateManager_2/",
+    "DownloadPath": "https://raw.githubusercontent.com/KennyFunGame/DDB_Launcher_2/main/UpdateManager_2/",
     "CurrentVersion": 10,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "REDMOLauncher.exe",
