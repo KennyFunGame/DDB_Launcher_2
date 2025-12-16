@@ -6,6 +6,13 @@
       "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/jrtJWXG2 for more information."
     }
   },
+	},
+  "Announcement": {
+    "Title":  "Yeni Özellik Eklendi",
+    "Content":  "Yeni sezon başladı!\nHarkaların bonusu %50 artmıştır.",
+    "ImageUrl": "https://example.com/banner.jpg",
+    "ShowOnStartup": true
+  },
   "PatchInfo": {
     "DownloadUrl": "https://raw.githubusercontent.com/KennyFunGame/DDB_Launcher_2/main/Patch_2/",
     "MinPatchVersion": 36,
