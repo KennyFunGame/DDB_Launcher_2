@@ -10,7 +10,7 @@
     "Title":  "Yeni Özellik Eklendi",
     "Content":  "Yeni sezon başladı!\nHarkaların bonusu %50 artmıştır.",
     "ImageUrl": "https://example.com/banner.jpg",
-    "ShowOnStartup": false,
+    "ShowOnStartup": false
   },
   "PatchInfo": {
     "DownloadUrl": "https://raw.githubusercontent.com/KennyFunGame/DDB_Launcher_2/main/Patch_2/",
